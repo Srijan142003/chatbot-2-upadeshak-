@@ -1,0 +1,359 @@
+{
+  "categories": {
+    "own_dharma": {
+      "name": "Own Dharma vs Borrowed Path",
+      "description": "Follow your nature, not society's expectations",
+      "verses": [
+        "BG-3.35",
+        "BG-18.48",
+        "BG-4.13",
+        "BG-15.11",
+        "BG-2.31"
+      ],
+      "priority": "CRITICAL"
+    },
+    "fear_removal": {
+      "name": "Removing Fear & Doubt",
+      "description": "Overcome paralysis and self-doubt",
+      "verses": [
+        "BG-2.3",
+        "BG-18.30",
+        "BG-2.40",
+        "BG-4.10",
+        "BG-15.5"
+      ],
+      "priority": "HIGH"
+    },
+    "duty_clarity": {
+      "name": "Understanding Dharma & Duty",
+      "description": "What is right duty? Clarity on responsibilities",
+      "verses": [
+        "BG-2.47",
+        "BG-3.11",
+        "BG-18.41",
+        "BG-2.31",
+        "BG-3.19"
+      ],
+      "priority": "HIGH"
+    },
+    "detachment": {
+      "name": "Detachment from Outcome (Nishkama Karma)",
+      "description": "Act without clinging to success or failure",
+      "verses": [
+        "BG-2.47",
+        "BG-2.56",
+        "BG-18.11",
+        "BG-4.19",
+        "BG-5.11"
+      ],
+      "priority": "HIGH"
+    },
+    "confusion_clarity": {
+      "name": "Overcoming Confusion & Indecision",
+      "description": "From confusion to clarity",
+      "verses": [
+        "BG-2.7",
+        "BG-10.11",
+        "BG-5.16",
+        "BG-13.25",
+        "CN-86"
+      ],
+      "priority": "HIGH"
+    },
+    "inner_strength": {
+      "name": "Building Inner Strength & Courage",
+      "description": "Cultivate confidence and resilience",
+      "verses": [
+        "BG-18.78",
+        "BG-10.12",
+        "BG-18.26",
+        "BG-2.40",
+        "BG-4.9"
+      ],
+      "priority": "MEDIUM"
+    },
+    "family_duty": {
+      "name": "Family Duty & Responsibilities",
+      "description": "Balancing personal goals with family obligations",
+      "verses": [
+        "BG-1.28-40",
+        "BG-2.37",
+        "BG-3.13",
+        "BG-18.41",
+        "VN-13"
+      ],
+      "priority": "HIGH"
+    },
+    "leadership": {
+      "name": "Leadership & Responsibility",
+      "description": "How to lead without ego",
+      "verses": [
+        "BG-3.21",
+        "BG-18.1-2",
+        "CN-1",
+        "CN-32"
+      ],
+      "priority": "MEDIUM"
+    },
+    "action_path": {
+      "name": "Taking Action & Next Steps",
+      "description": "How to move forward practically",
+      "verses": [
+        "BG-3.8",
+        "BG-18.48",
+        "BG-11.33",
+        "BG-2.47",
+        "CN-2"
+      ],
+      "priority": "HIGH"
+    },
+    "decision_making": {
+      "name": "Decision-Making Framework",
+      "description": "How to choose between options",
+      "verses": [
+        "BG-3.35",
+        "BG-18.48",
+        "BG-2.31",
+        "BG-4.13",
+        "CN-53"
+      ],
+      "priority": "CRITICAL"
+    },
+    "success_mindset": {
+      "name": "Success Without Ego",
+      "description": "Achieve without attachment or arrogance",
+      "verses": [
+        "BG-18.24",
+        "BG-18.17-19",
+        "BG-2.48",
+        "BG-5.23",
+        "CN-86"
+      ],
+      "priority": "MEDIUM"
+    },
+    "failure_resilience": {
+      "name": "Handling Failure & Setback",
+      "description": "Balance, equanimity, learning from failure",
+      "verses": [
+        "BG-2.56",
+        "BG-2.38",
+        "BG-5.20",
+        "BG-18.9",
+        "VN-48"
+      ],
+      "priority": "MEDIUM"
+    },
+    "authentic_passion": {
+      "name": "Authentic Passion vs False Enthusiasm",
+      "description": "Distinguishing true calling from impulse",
+      "verses": [
+        "BG-3.35",
+        "BG-18.48",
+        "BG-17.26",
+        "BG-4.18",
+        "CN-45"
+      ],
+      "priority": "HIGH"
+    },
+    "purpose_meaning": {
+      "name": "Finding Purpose & Meaning",
+      "description": "What is my life for?",
+      "verses": [
+        "BG-3.19",
+        "BG-18.46",
+        "BG-4.24",
+        "BG-15.11",
+        "CN-86"
+      ],
+      "priority": "MEDIUM"
+    }
+  },
+  "verse_to_categories": {
+    "BG-3.35": [
+      "authentic_passion",
+      "decision_making",
+      "own_dharma"
+    ],
+    "BG-18.48": [
+      "authentic_passion",
+      "action_path",
+      "decision_making",
+      "own_dharma"
+    ],
+    "BG-4.13": [
+      "decision_making",
+      "own_dharma"
+    ],
+    "BG-15.11": [
+      "purpose_meaning",
+      "own_dharma"
+    ],
+    "BG-2.31": [
+      "duty_clarity",
+      "decision_making",
+      "own_dharma"
+    ],
+    "BG-2.3": [
+      "fear_removal"
+    ],
+    "BG-18.30": [
+      "fear_removal"
+    ],
+    "BG-2.40": [
+      "inner_strength",
+      "fear_removal"
+    ],
+    "BG-4.10": [
+      "fear_removal"
+    ],
+    "BG-15.5": [
+      "fear_removal"
+    ],
+    "BG-2.47": [
+      "duty_clarity",
+      "action_path",
+      "detachment"
+    ],
+    "BG-3.11": [
+      "duty_clarity"
+    ],
+    "BG-18.41": [
+      "duty_clarity",
+      "family_duty"
+    ],
+    "BG-3.19": [
+      "duty_clarity",
+      "purpose_meaning"
+    ],
+    "BG-2.56": [
+      "failure_resilience",
+      "detachment"
+    ],
+    "BG-18.11": [
+      "detachment"
+    ],
+    "BG-4.19": [
+      "detachment"
+    ],
+    "BG-5.11": [
+      "detachment"
+    ],
+    "BG-2.7": [
+      "confusion_clarity"
+    ],
+    "BG-10.11": [
+      "confusion_clarity"
+    ],
+    "BG-5.16": [
+      "confusion_clarity"
+    ],
+    "BG-13.25": [
+      "confusion_clarity"
+    ],
+    "CN-86": [
+      "purpose_meaning",
+      "success_mindset",
+      "confusion_clarity"
+    ],
+    "BG-18.78": [
+      "inner_strength"
+    ],
+    "BG-10.12": [
+      "inner_strength"
+    ],
+    "BG-18.26": [
+      "inner_strength"
+    ],
+    "BG-4.9": [
+      "inner_strength"
+    ],
+    "BG-1.28-40": [
+      "family_duty"
+    ],
+    "BG-2.37": [
+      "family_duty"
+    ],
+    "BG-3.13": [
+      "family_duty"
+    ],
+    "VN-13": [
+      "family_duty"
+    ],
+    "BG-3.21": [
+      "leadership"
+    ],
+    "BG-18.1-2": [
+      "leadership"
+    ],
+    "CN-1": [
+      "leadership"
+    ],
+    "CN-32": [
+      "leadership"
+    ],
+    "BG-3.8": [
+      "action_path"
+    ],
+    "BG-11.33": [
+      "action_path"
+    ],
+    "CN-2": [
+      "action_path"
+    ],
+    "CN-53": [
+      "decision_making"
+    ],
+    "BG-18.24": [
+      "success_mindset"
+    ],
+    "BG-18.17-19": [
+      "success_mindset"
+    ],
+    "BG-2.48": [
+      "success_mindset"
+    ],
+    "BG-5.23": [
+      "success_mindset"
+    ],
+    "BG-2.38": [
+      "failure_resilience"
+    ],
+    "BG-5.20": [
+      "failure_resilience"
+    ],
+    "BG-18.9": [
+      "failure_resilience"
+    ],
+    "VN-48": [
+      "failure_resilience"
+    ],
+    "BG-17.26": [
+      "authentic_passion"
+    ],
+    "BG-4.18": [
+      "authentic_passion"
+    ],
+    "CN-45": [
+      "authentic_passion"
+    ],
+    "BG-18.46": [
+      "purpose_meaning"
+    ],
+    "BG-4.24": [
+      "purpose_meaning"
+    ]
+  },
+  "critical_verses": [
+    "BG-3.35",
+    "BG-2.31",
+    "CN-53",
+    "BG-4.13",
+    "BG-15.11",
+    "BG-18.48"
+  ],
+  "summary": {
+    "total_categories": 14,
+    "total_verse_mappings": 52,
+    "critical_count": 6
+  }
+}
